@@ -1,0 +1,20 @@
+body {
+background-image:url(cvet.jpg);
+
+}
+h1
+{
+color: white;
+font-style:oblique;
+background-color: teal;
+}
+h2
+{
+color:white;
+font-style:italic;
+background-color: teal;
+}
+h3
+{color:white;
+  background-color: teal;
+  }
